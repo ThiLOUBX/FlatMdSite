@@ -20,4 +20,6 @@ pandoc -s index.md index.docx
 ```
 
 ## Authors
-Sylvain L.
+Thibault C
+Thibault L
+Thibault S
